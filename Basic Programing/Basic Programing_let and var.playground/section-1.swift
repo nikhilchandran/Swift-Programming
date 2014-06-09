@@ -3,7 +3,7 @@
 import Cocoa
 
 
-//using var and let fucntion
+//using var and let 
 
 var myVariable=42
 myVariable=50
